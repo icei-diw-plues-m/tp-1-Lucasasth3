@@ -8,7 +8,8 @@ Coloque aqui os seus dados
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+<img width="1919" height="926" alt="Image" src="https://github.com/user-attachments/assets/c46ab847-3762-48bb-9ecb-781811c981a5" />
+<img width="1919" height="1003" alt="Image" src="https://github.com/user-attachments/assets/685205a9-5e24-41f1-9cab-fb7acd3ac46c" />
 
 
 ## Orientações sobre Linguagem MarkDown
